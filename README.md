@@ -10,7 +10,9 @@ A small, opinionated kit to set up **encrypted**, **automated** backups using **
 - a restore drill script to prove restores work
 
 ## Quick start
+ License: GPL-3.0-or-later
 
+ 
 ```bash
 ./install.sh
 ```
